@@ -6,7 +6,7 @@
  * used in the Scrabble game.
  * 
  * @author Wonmin Song
- * @author Vickey Kang
+ * @author Vicky Kang
  * @since 11/15/2025
  */
 public class Tile {
