@@ -11,7 +11,7 @@ import java.util.Scanner;
  * - If not, informs the user.
  * 
  * @author Wonmin Song
- * @author Vickey Kang
+ * @author Vicky Kang
  * @since 11/15/2025
  */
 public class App {
@@ -186,3 +186,4 @@ public class App {
         tiles.add(new Tile('Z', 10));
     }
 }
+
